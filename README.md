@@ -14,6 +14,25 @@ npm install -g @aws-amplify/cli@4.13.2
 
 # Install jq
 sudo yum install jq -y
+
+```
+# Bootstrapping the Application
+
+```
+npx create-react-app photoalbums
+
+cd photoalbums
+
+npm install --save semantic-ui-react
+
+
+cd photoalbums
+
+amplify init
+
+amplify add auth
+
+
 ```
 
 # Links
