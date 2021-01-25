@@ -38,3 +38,5 @@ amplify add auth
 # Links
 
 https://amplify-workshop.go-aws.com/
+
+https://github.com/dabit3/amplify-photo-sharing-workshop
